@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.0.219" id="da3a91e1-eef6-4dd9-941e-fcafdcd67cd6" port="22" nameFormat="DESCRIPTIVE" username="zp" />
+    </configs>
+  </component>
+</project>
